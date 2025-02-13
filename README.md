@@ -1,0 +1,3 @@
+# Uncommon Assembly Code Errors
+
+This repository contains examples of uncommon errors that can occur in assembly code.  These errors are often difficult to detect and debug because they may not always lead to immediate crashes or obvious symptoms. The examples demonstrate situations that lead to buffer overflows, access violations, indirect jumps to unpredictable locations, integer overflows, and loop counter overflows.  Solutions are provided to illustrate how to mitigate these issues.  Each example is carefully documented to explain the potential problems and effective solutions.
